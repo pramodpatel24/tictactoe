@@ -1,7 +1,10 @@
-Tic-Tac-Toe Game
+#Tic-Tac-Toe Game
+
+
 A simple Tic-Tac-Toe game built with React.
 
 Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
